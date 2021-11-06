@@ -61,4 +61,4 @@ Command to reproduce the experiments mentioned in the paper for Twins dataset:
 
 Licensed under the [MIT License](LICENSE)
 
-Copyright (c) 2021 LearningAgent
+Copyright (c) 2021 DISL
