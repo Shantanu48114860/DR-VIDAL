@@ -3,6 +3,9 @@
 ## Keywords:
 causal AI, biomedical informatics, generative adversarial networks, variational inference, information theory, doubly robust
 
+## Supplementary
+The supplementary material with proofs and additional results will be found at: [here](https://github.com/Shantanu48114860/DR-VIDAL/blob/main/DR_VIDAL_AMIA-Supp.pdf).
+
 ## Packages
 All the packages are inluded in **environment.yml** file
 
