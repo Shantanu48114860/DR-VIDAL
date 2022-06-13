@@ -1,4 +1,6 @@
 # DR-VIDAL - Doubly Robust Variational Information(Theoretic) Adversarial Learning for the Estimation of Treatment Effects and Counterfactuals
+# -- Update:
+Paper accepted in AMIA' 22. Information related to citation will be posted soon.
 
 ## Keywords:
 causal AI, biomedical informatics, generative adversarial networks, variational inference, information theory, doubly robust
